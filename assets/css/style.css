@@ -69,7 +69,7 @@ h6,
   padding-right: 10px;
   font-size: 12px;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  
 }
 
 #header .contact-link a:hover {
@@ -116,7 +116,6 @@ h6,
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  text-transform: uppercase;
   color: #fff;
 }
 
